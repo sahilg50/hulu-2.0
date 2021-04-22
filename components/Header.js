@@ -8,7 +8,7 @@ import {
 } from '@heroicons/react/outline';
 
 import Image from 'next/image';
-import HeaderItem from './headerItem';
+import HeaderItem from './HeaderItem';
 
 function Header() {
 	return (
